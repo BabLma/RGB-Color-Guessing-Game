@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Color Game</title>
+    <link rel="stylesheet" type="text/css" href="color.css" />
+  </head>
+  <body>
+    <section class="guessing-game">
+      <div class="first-col guide-me">
+        <h3>Instructions (How to Play)</h3>
+        <span><b>Step-1:</b> First guess the RGB color number on the box </span
+        ><br />
+        <span
+          ><b>Step-2:</b> After guessing the RGB color number, select the any
+          circle color that you guess</span
+        ><br />
+        <span
+          ><b>Step-3:</b> If you correct the color name you will get the message
+          saying "correct" otherwise you will get the "try again" message.
+        </span>
+      </div>
+      <div class="first-col" style="border-radius: 15px; text-align: center">
+        <h1>
+          The RGB Guessing Color Game
+          <br />
+          <span id="colorDisplay">RGB</span><br />
+        </h1>
+      </div>
+
+      <div id="stripe" class="first-col">
+        <button id="reset">New Colors</button>
+        <span class="messageDisplay"></span>
+        <button class="mode">Easy</button>
+        <button class="mode selected">Hard</button>
+      </div>
+    </section>
+
+    <div id="container">
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+      <div class="square"></div>
+    </div>
+
+    <script type="text/javascript" src="game.js"></script>
+  </body>
+</html>
