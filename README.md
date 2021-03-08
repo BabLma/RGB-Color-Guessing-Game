@@ -6,11 +6,11 @@
 
 ### Instruction (How To Play)
 
-###### First, guess the _RGB_ color number
+1. First, guess the _RGB_ color number
 
-###### After guessing the _RGB_ color number, select any color circle that you guess
+2. After guessing the _RGB_ color number, select any color circle that you guess
 
-###### If you correct the color number you will get the message on the right side saying "correct" otherwise you will get the "try again" message
+3. If you correct the color number you will get the message on the right side saying "correct" otherwise you will get the "try again" message
 
 ##### Check it Out 👉 [RGB Guessing Game]
 
