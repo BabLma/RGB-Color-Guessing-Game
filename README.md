@@ -1,11 +1,11 @@
 ### RGB Guessign Color Game - Colt Steel's Project
 
-#### Added some features and change the layout design
+##### Added some features and change the layout design
 
 ##### Build with Html, Css, jQuery
 
-### How to Play
+### Instruction:
 
-Step-1: First guess the RGB color number on the box
-Step-2: After guessing the RGB color number, select the any circle color that you guess
-Step-3: If you correct the color name you will get the message saying "correct" otherwise you will get the "try again" message.
+1. **First, guess the _RGB_ color number**
+2. **After guessing the _RGB_ color number, select any color circle that you guess**
+3. **If you correct the color number you will get the message on the right side saying "correct" otherwise you will get the "try again" message**
