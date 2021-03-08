@@ -1,4 +1,4 @@
-### RGB Guessign Color Game - Colt Steel's Project
+### RGB Guessing Color Game - Colt Steel's Project
 
 ##### Added some Features and Change the Layout Design
 
