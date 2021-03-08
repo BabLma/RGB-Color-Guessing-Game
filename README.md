@@ -1,6 +1,6 @@
 ### RGB Guessing Color Game - Colt Steel's Project
 
-##### Added some Features and Change the Layout Design
+##### Added New Features and Change the Layout Design
 
 ##### Build with Html, Css, jQuery
 
