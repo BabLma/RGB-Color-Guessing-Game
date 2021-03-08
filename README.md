@@ -9,6 +9,7 @@
 1. First, guess the _RGB_ color number
 2. After guessing the _RGB_ color number, select any color circle that you guess
 3. If you correct the color number you will get the message on the right side saying "correct" otherwise you will get the "try again" message
+   </br>
    Check it Out 👉 [RGB Guessing Game]
 
-[candy_project]: https://nabintmg.github.io/RGB-Color-Guessing-Game/
+[rgb guessing game]: https://nabintmg.github.io/RGB-Color-Guessing-Game/
