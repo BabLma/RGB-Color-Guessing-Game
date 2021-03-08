@@ -12,7 +12,6 @@
 
 ###### If you correct the color number you will get the message on the right side saying "correct" otherwise you will get the "try again" message
 
-   </br>
-   Check it Out 👉 [RGB Guessing Game]
+##### Check it Out 👉 [RGB Guessing Game]
 
 [rgb guessing game]: https://nabintmg.github.io/RGB-Color-Guessing-Game/
